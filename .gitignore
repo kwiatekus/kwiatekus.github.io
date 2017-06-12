@@ -3,3 +3,8 @@ dt-for-scrum-pl/test/
 dt-for-scrum-pl/Gruntfile.js
 dt-for-scrum-pl/bower.json
 dt-for-scrum-pl/package.json
+dt-for-developers-pl/node_modules/
+dt-for-developers-pl/test/
+dt-for-developers-pl/Gruntfile.js
+dt-for-developers-pl/bower.json
+dt-for-developers-pl/package.json
